@@ -1,0 +1,1 @@
+Set-NetFirewallProfile -All -LogBlocked True -LogFileName "%systemroot%\system32\LogFiles\Firewall\pfirewall.log"
